@@ -10,13 +10,5 @@ Coordinator: Handles the navigation flow between the views. It decides which vie
 
 ## Diagram ##
 
-+-----------------+       +---------------+       +----------------+
-|     View        | <---  |   ViewModel   | <---  |     Model      |
-+-----------------+       +---------------+       +----------------+
-       |                           |                           |
-       |                           |                           |
-       |    +-----------------+    |                           |
-       +--->|   Coordinator   |<---+                           |
-            +-----------------+                                |
-                       |                                       |
-                       +---------------------------------------+
+
+<img width="559" alt="Screenshot 2023-05-14 at 8 34 10 PM" src="https://github.com/Zulqurnain24/MVVMC/assets/6280238/76ad437c-287f-4eba-afe8-18f1a8c3c032">
